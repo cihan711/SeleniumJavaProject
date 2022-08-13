@@ -6,6 +6,9 @@ import org.openqa.selenium.WebElement;
 
 public class homepage {
 	
+	
+	//Finding Laptop
+	
 	public WebDriver driver;
 	
 	By searchbar = By.className("desktopOldAutosuggestTheme-input");
